@@ -2,6 +2,7 @@
 -- Problem Link: https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50
 
 
+![Visualization_of_table](Images/Picture-1.JPG)
 
 -- Summary:
 -- The task is to find the confirmation rate for each user based on their confirmation requests.
